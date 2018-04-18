@@ -1,0 +1,93 @@
+File Name: testhw5.dat
+Cache Hits: 971906
+Records Read: 906857
+Records Written: 437712
+Blocks Read: 57
+Blocks Written: 57
+QuickSort Records Time: 3499
+QuickSort Blocks Time: 649
+
+File Name: samplehw5.dat
+Cache Hits: 460
+Records Read: 374
+Records Written: 176
+Blocks Read: 1
+Blocks Written: 1
+QuickSort Records Time: 1
+QuickSort Blocks Time: 0
+
+Records Before Sorting: (935, 19682), (8011, 26954), (20137, 11878), (29302, 3187), (954, 23203), (9990, 10195), (23214, 27927), (2816, 26145), (21615, 23324), (2791, 9665), (25840, 16848), (12776, 25621), (25209, 27604), (16296, 11639), (13520, 19428), (14243, 28711), (15396, 5106), (3438, 7350), (26768, 9330), (1766, 11071), (11470, 1204), (28178, 13710), (13966, 22424), (7214, 13072), (18905, 21730), (25026, 9828), (546, 16625), (9762, 28567), (5675, 14495), (7045, 5798), (20109, 20204), (26880, 11051)
+Records After Sorting:  (546, 16625), (935, 19682), (954, 23203), (1766, 11071), (2791, 9665), (2816, 26145), (3438, 7350), (5675, 14495), (7045, 5798), (7214, 13072), (8011, 26954), (9762, 28567), (9990, 10195), (11470, 1204), (12776, 25621), (13520, 19428), (13966, 22424), (14243, 28711), (15396, 5106), (16296, 11639), (18905, 21730), (20109, 20204), (20137, 11878), (21615, 23324), (23214, 27927), (25026, 9828), (25209, 27604), (25840, 16848), (26768, 9330), (26880, 11051), (28178, 13710), (29302, 3187)
+
+File Name: myData1hw5.dat
+Cache Hits: 521121
+Records Read: 460471
+Records Written: 234724
+Blocks Read: 65
+Blocks Written: 65
+QuickSort Records Time: 1798
+QuickSort Blocks Time: 741
+
+File Name: myData2hw5.dat
+Cache Hits: 519949
+Records Read: 466813
+Records Written: 234148
+Blocks Read: 52
+Blocks Written: 52
+QuickSort Records Time: 1832
+QuickSort Blocks Time: 571
+
+File Name: myData3hw5.dat
+Cache Hits: 517851
+Records Read: 479508
+Records Written: 233152
+Blocks Read: 28
+Blocks Written: 28
+QuickSort Records Time: 1869
+QuickSort Blocks Time: 305
+
+File Name: myData4hw5.dat
+Cache Hits: 513639
+Records Read: 470335
+Records Written: 231112
+Blocks Read: 16
+Blocks Written: 16
+QuickSort Records Time: 1808
+QuickSort Blocks Time: 182
+
+File Name: myData5hw5.dat
+Cache Hits: 307080
+Records Read: 290617
+Records Written: 137236
+Blocks Read: 10
+Blocks Written: 10
+QuickSort Records Time: 1103
+QuickSort Blocks Time: 116
+
+File Name: myData6hw5.dat
+Cache Hits: 663653
+Records Read: 586668
+Records Written: 299888
+Blocks Read: 49
+Blocks Written: 49
+QuickSort Records Time: 2250
+QuickSort Blocks Time: 514
+
+File Name: myData7hw5.dat
+Cache Hits: 1028080
+Records Read: 919389
+Records Written: 466808
+Blocks Read: 145
+Blocks Written: 145
+QuickSort Records Time: 3517
+QuickSort Blocks Time: 1530
+
+File Name: myData8hw5.dat
+Cache Hits: 1408449
+Records Read: 1246154
+Records Written: 642576
+Blocks Read: 195
+Blocks Written: 195
+QuickSort Records Time: 4810
+QuickSort Blocks Time: 2040
+
